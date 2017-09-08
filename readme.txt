@@ -5,6 +5,7 @@ git config --global user.email "rickzeng.love@gmail.com"
 
 git init
 git add README.md
+add by dev branch
 git commit -m "first commit"
 git remote add origin https://github.com/rickzeng-love/gitrep.git
 git push -u origin master
