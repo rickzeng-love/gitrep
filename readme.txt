@@ -19,3 +19,5 @@ git remote add origin git@github.com:rickzeng.love/gitrep.git
 git remote rm origin
 
 eval "$(ssh-agent -s)"
+
+Creating a new branch is quick
